@@ -1,0 +1,11 @@
+# editor
+.vscode/
+
+# output
+out/
+runs/
+frames/
+*__pycache__/
+
+# testing
+media/
